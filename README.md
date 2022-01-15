@@ -1,6 +1,6 @@
 # OpenOcean
 
-An NFT Marketplace deployed on Polygon Mumbai Testnet, with Custom Auction and Sales mechanisms based on user preference.
+An NFT Marketplace deployed on Polygon Testnet, with Custom Auction and Sales mechanisms based on user preference.
 
  
  
