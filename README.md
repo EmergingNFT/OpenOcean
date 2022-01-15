@@ -1,13 +1,12 @@
-# NFT-Ocean
+# OpenOcean
 
 An NFT Marketplace deployed on Polygon Mumbai Testnet, with Custom Auction and Sales mechanisms based on user preference.
 
- ![logo](/src/logo.png?raw=true)
  
  
  <br/>
  
-   NFT Marketplaces are now commonplace, but for auctions, most of them only offer the traditional mechanism where the auctioneer chooses a base price for the NFT and potential buyers place higher bids until finally the highest bid is approved. This is called an English Auction. NFT-Ocean stands out by enabling its users to choose the custom mechanism they prefer for the auction. NFT-Ocean currently supports the following auction schemes.
+   NFT Marketplaces are now commonplace, but for auctions, most of them only offer the traditional mechanism where the auctioneer chooses a base price for the NFT and potential buyers place higher bids until finally the highest bid is approved. This is called an English Auction. OpenOcean stands out by enabling its users to choose the custom mechanism they prefer for the auction. OpenOcean currently supports the following auction schemes.
  
 ### English Auction
 - An English Auction, also referred to as an open cry ascending auction, starts by an auctioneer announcing the suggested opening bid or reserve price for the item on sale. The buyers with interest in the item start placing bids on the item on sale, with the auctioneer accepting higher bids as they come. The buyer with the highest bid at any time is considered the one with a standing bid, which can only be displaced by a higher bid from the floor.     
